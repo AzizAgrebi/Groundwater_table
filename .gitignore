@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+groundwater_env/
+*.env
+
+*.csv
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+*.xltm
